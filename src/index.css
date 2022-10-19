@@ -33,3 +33,14 @@ ul{
   border: 1px solid white;
   cursor: pointer;
 }
+
+.btn-light {
+  background: transparent;
+  color: lightgray;
+}
+
+.btn:hover {
+  background: lightgray;
+  color: white;
+  transition: 0.3s;
+}
