@@ -2,21 +2,15 @@ import "./FooterStyles.css"
 
 import React from 'react'
 
-import {FaGithub,  FaLinkedin, FaMailBulk, FaTwitter } from "react-icons/fa";
+import {FaGithub,  FaLinkedin, FaTwitter } from "react-icons/fa";
 
 function Footer() {
   return (
     <div class="footer">
       <div className="footer-container">
         <div className="left"></div>
-        
-      
-       
-          
-        </div>
-        
-
-        <div className="right">
+      </div>
+         <div className="right">
           <h4> Social Media Links </h4>
           <p> Links to social media </p>
           <div className="social">
