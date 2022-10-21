@@ -4,22 +4,24 @@
 }
 
 .project-container {
-  max-width: 1140px;
+  max-width: 90%;
   margin: auto;
-  display: grid;
+  /* display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-gap: 40px;
+  grid-gap: 40px; */
   padding-bottom: 5rem;
+
 }
 
 .project-card{
   background: black;
   padding: 1.2rem 1rem;
-
+  
 }
 
-.project-card .img {
+.project-card img {
   width: 100%;
+  /* justify-content: center; */
 }
 
 .project-title {
@@ -52,6 +54,7 @@
   .work-container {
     max-width: 90%;
     margin: auto;
+    grid-template-columns: 1fr;
   }
 }
 
