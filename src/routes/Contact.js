@@ -8,6 +8,7 @@ const Contact = () => {
    <div>
     <Navbar />
     <HeroImg2 heading="Contact." text="Contact Me" />
+    
     <Footer />
    </div>
   )
