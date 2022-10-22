@@ -20,7 +20,7 @@ function ProjectsCard() {
             <div className="pro-btns">
               <NavLink to="https://evening-river-11733.herokuapp.com/"
               className="btn">View Project</NavLink>
-              <NavLink to="https://github.com/tedtalktimmy/queen-city-pup"
+              <NavLink to="https://github.com/tedtalktimmy/queen-city-pup" 
               className="btn">Repository</NavLink>
               </div>
           </div>
@@ -48,7 +48,7 @@ function ProjectsCard() {
             <div className="pro-btns">
               <NavLink to="https://ajenkinsynwa.github.io/weatherdashboard/"
               className="btn">View Project</NavLink>
-              <NavLink to="https://github.com/ajenkinsynwa/weatherdashboard"
+              <NavLink target="_blank" to="https://github.com/ajenkinsynwa/weatherdashboard "
               className="btn">Repository</NavLink>
               </div>
           </div>
