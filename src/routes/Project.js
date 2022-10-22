@@ -4,6 +4,7 @@ import Footer from "../components/Footer";
 import HeroImg2 from '../components/heroImg2';
 import ProjectsCard from '../components/ProjectsCard';
 
+
 const Project = () => {
   return (
     <div>
@@ -11,6 +12,7 @@ const Project = () => {
       <HeroImg2 heading="PROJECTS." text="My 
       Recents Projects" />
       <ProjectsCard />
+      
       <Footer />
     
     </div>
