@@ -2,7 +2,7 @@ import "./FormStyles.css"
 
 import React from 'react'
 
-import {FaGithub,  FaLinkedin, FaTwitter } from "react-icons/fa";
+import {FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 
 function Form() {
   return (
@@ -27,7 +27,8 @@ function Form() {
           <a href="https://www.linkedin.com/in/alexjenkins85/">
           <FaLinkedin size={50} style={{ color:
           "#fff", marginRight: "1rem"}} /> </a>
-        
+
+   
 
       </div>
      
