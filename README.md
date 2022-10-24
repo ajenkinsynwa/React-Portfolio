@@ -24,7 +24,7 @@ The page will reload if you make edits.
 ![Main Page](./src/assets/mainpage.png)
 
 
-#Connect With Me 
+# Connect With Me 
 
 [Linkedin](https://www.linkedin.com/in/alexjenkins85/)
 
