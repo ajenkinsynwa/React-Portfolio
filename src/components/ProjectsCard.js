@@ -45,10 +45,11 @@ function ProjectsCard() {
           <h2 className="project-title">Weather Dashboard</h2>
           <div className="pro-details">
             <p> It is important to always check the weather to know what mother nature has in store for the current day and next 5 days. It is also important if you are going on a vacation to know the weather of your destination, that way you can prepare accordingly. This simple weather dashboard can show you the 5 day forecast of your city of choice, max/min temeperature, humidity, and wind speed.</p>
+            
             <div className="pro-btns">
               <NavLink to="https://ajenkinsynwa.github.io/weatherdashboard/"
               className="btn">View Project</NavLink>
-              <NavLink target="_blank" to="https://github.com/ajenkinsynwa/weatherdashboard "
+              <NavLink target="_blank" to="https://github.com/ajenkinsynwa/weatherdashboard"
               className="btn">Repository</NavLink>
               </div>
           </div>
