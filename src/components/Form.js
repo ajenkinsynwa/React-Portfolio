@@ -14,6 +14,12 @@ function Form() {
         <div class="btn3">
         <a class="button" href="mailto:alexjenkinsynwa@gmail.com">Email Me</a>
         </div>
+        <br>
+        </br>
+
+        <div class="btn3">
+        <a class="button" href="https://docs.google.com/document/d/1Z0b7YPJlbuIAIUHUiyVru3XA9Z0M-aj7/edit?usp=sharing&ouid=106277222241718224992&rtpof=true&sd=true">My Resume</a>
+        </div>
 
       <div className="contact-icons">
       <a href="https://github.com/ajenkinsynwa">
