@@ -4,7 +4,7 @@ import Footer from "../components/Footer";
 import HeroImg2 from '../components/heroImg2';
 import ProjectsCard from '../components/ProjectsCard';
 
-
+//Main projects
 const Project = () => {
   return (
     <div>
