@@ -29,7 +29,7 @@ window.addEventListener("scroll", changeColor);
     </Link>
     <ul className= {click ? "nav-menu active" : "nav-menu"}>
       <li>
-        <Link to="/">Home</Link>
+        <Link to="/React-Portfolio">Home</Link>
       </li>
       <li>
         <Link to="/project">Projects</Link>
