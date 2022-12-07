@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.9304e541.css",
-    "main.js": "/React-Portfolio/static/js/main.11a20516.js",
-    "static/media/background4.jpg": "/React-Portfolio/static/media/background4.c919c685fb673028db7d.jpg",
-    "static/media/queencitypups.png": "/React-Portfolio/static/media/queencitypups.bb2ac46b5ff5abcc5e93.png",
-    "static/media/profile.jpeg": "/React-Portfolio/static/media/profile.585e81bae488dfc2935f.jpeg",
-    "static/media/weather.png": "/React-Portfolio/static/media/weather.6c9f578a15cbabbecb88.png",
-    "static/media/computer.jpg": "/React-Portfolio/static/media/computer.4cdc093eb7f5b0fee4ab.jpg",
-    "static/media/notetaker.png": "/React-Portfolio/static/media/notetaker.c97e16f49197298bbbca.png",
-    "index.html": "/React-Portfolio/index.html",
-    "main.9304e541.css.map": "/React-Portfolio/static/css/main.9304e541.css.map",
-    "main.11a20516.js.map": "/React-Portfolio/static/js/main.11a20516.js.map"
+    "main.css": "/react-portfolio/static/css/main.aee8b1f2.css",
+    "main.js": "/react-portfolio/static/js/main.a7cd5ec6.js",
+    "static/media/background4.jpg": "/react-portfolio/static/media/background4.c919c685fb673028db7d.jpg",
+    "static/media/queencitypups.png": "/react-portfolio/static/media/queencitypups.bb2ac46b5ff5abcc5e93.png",
+    "static/media/profile.jpeg": "/react-portfolio/static/media/profile.585e81bae488dfc2935f.jpeg",
+    "static/media/weather.png": "/react-portfolio/static/media/weather.6c9f578a15cbabbecb88.png",
+    "static/media/computer.jpg": "/react-portfolio/static/media/computer.4cdc093eb7f5b0fee4ab.jpg",
+    "static/media/notetaker.png": "/react-portfolio/static/media/notetaker.c97e16f49197298bbbca.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.aee8b1f2.css.map": "/react-portfolio/static/css/main.aee8b1f2.css.map",
+    "main.a7cd5ec6.js.map": "/react-portfolio/static/js/main.a7cd5ec6.js.map"
   },
   "entrypoints": [
-    "static/css/main.9304e541.css",
-    "static/js/main.11a20516.js"
+    "static/css/main.aee8b1f2.css",
+    "static/js/main.a7cd5ec6.js"
   ]
 }
