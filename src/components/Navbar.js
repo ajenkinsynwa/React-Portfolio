@@ -24,7 +24,7 @@ window.addEventListener("scroll", changeColor);
 
   return (
     <div className={color ? "header header-bg" : "header"}>
-    <Link to="/">
+    <Link to="/React-Portfolio">
       <h1>Alex Jenkins Portfolio</h1>
     </Link>
     <ul className= {click ? "nav-menu active" : "nav-menu"}>
