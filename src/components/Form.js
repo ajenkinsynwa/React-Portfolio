@@ -18,7 +18,7 @@ function Form() {
         </br>
 
         <div class="btn3">
-        <a class="button" href="https://docs.google.com/document/d/1Z0b7YPJlbuIAIUHUiyVru3XA9Z0M-aj7/edit?usp=sharing&ouid=106277222241718224992&rtpof=true&sd=true">My Resume</a>
+        <a class="button" href="https://docs.google.com/document/d/1QeQ1Jvd5R1Sm20d2XoUyXr3_zGPS4AJ2/edit">My Resume</a>
         </div>
 
       <div className="contact-icons">
