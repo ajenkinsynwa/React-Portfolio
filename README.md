@@ -28,4 +28,4 @@ The page will reload if you make edits.
 
 [Linkedin](https://www.linkedin.com/in/alexjenkins85/)
 
-[Link To Portfolio](https://alexjenkinsportfolio.herokuapp.com/)
+[Link To Portfolio](https://ajenkinsynwa.github.io/React-Portfolio/)
